@@ -1,0 +1,8 @@
+node_modules
+*.txt
+*.pdf
+*.md 
+secrets.js
+secrets.jsx
+secrets.json
+
